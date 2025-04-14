@@ -13,7 +13,7 @@ let snakeArr = [
 ]
 food = { x: 6, y: 7 }
 
-//game funtions
+//game funtions (controls)
 
 function main(ctime) {
     window.requestAnimationFrame(main);
@@ -34,7 +34,7 @@ function isCollide(snake) {
         }
     }
 
-    //if you bump into the wall
+    //if you bump into the wall 
 
     if (snake[0].x >= 18 || snake[0].x <= 0 || snake[0].y >= 18 || snake[0].y <= 0) {
         return true;
@@ -72,7 +72,7 @@ function gameEngine() {
         food = { x: Math.round(a + (b - a) * Math.random()), y: Math.round(a + (b - a) * Math.random()) }
     }
 
-    //moving the snake
+    //moving the snake (forward or backward)
 
     for (let i = snakeArr.length - 2; i >= 0; i--) {
         snakeArr[i + 1] = { ...snakeArr[i] };
