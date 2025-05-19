@@ -34,3 +34,5 @@ Integrated a high score tracking feature that stored and displayed players' best
 Game Loop: 
 Developed an efficient game loop to update the game's state, control animations, and ensure a consistent frame rate, contributing to the game's smooth performance.
 
+
+
