@@ -9,6 +9,7 @@ Git Version Control
 
 
 Game Mechanics: 
+
 Designed and implemented the core game mechanics, including snake movement, food generation, collision detection, and score tracking, using JavaScript. 
 The game provided an enjoyable and nostalgic gaming experience.
 
