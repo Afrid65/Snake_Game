@@ -1,18 +1,12 @@
 # Snake_Game
 Technologies Used:
-
-HTML5
-
-CSS3
-
-JavaScript (ES6)
+HTML5, CSS3, JavaScript (ES6)
 
 Responsive Web Design
 Git Version Control
 
 
 Game Mechanics: 
-
 Designed and implemented the core game mechanics, including snake movement, food generation, collision detection, and score tracking, using JavaScript. 
 The game provided an enjoyable and nostalgic gaming experience.
 
@@ -39,9 +33,11 @@ Game Loop:
 Developed an efficient game loop to update the game's state, control animations, and ensure a consistent frame rate, contributing to the game's smooth performance.
 
 
+front end
 
 
 
+back end
 
 
 
