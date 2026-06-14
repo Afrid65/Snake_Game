@@ -33,7 +33,6 @@ Developed an efficient game loop to update the game's state, control animations,
 
 front end
 
-
 back end
 
 
